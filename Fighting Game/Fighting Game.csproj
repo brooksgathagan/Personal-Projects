@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>Fighting_Game</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="DefenseGame">
+      <HintPath>..\..\DefenseGame\DefenseGame\bin\Debug\netcoreapp2.1\DefenseGame.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

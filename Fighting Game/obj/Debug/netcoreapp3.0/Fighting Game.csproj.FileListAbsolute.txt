@@ -1,0 +1,28 @@
+C:\Users\Brooks\source\repos\Fighting Game\Fighting Game\bin\Debug\netcoreapp3.0\Fighting Game.exe
+C:\Users\Brooks\source\repos\Fighting Game\Fighting Game\bin\Debug\netcoreapp3.0\Fighting Game.deps.json
+C:\Users\Brooks\source\repos\Fighting Game\Fighting Game\bin\Debug\netcoreapp3.0\Fighting Game.runtimeconfig.json
+C:\Users\Brooks\source\repos\Fighting Game\Fighting Game\bin\Debug\netcoreapp3.0\Fighting Game.runtimeconfig.dev.json
+C:\Users\Brooks\source\repos\Fighting Game\Fighting Game\bin\Debug\netcoreapp3.0\Fighting Game.dll
+C:\Users\Brooks\source\repos\Fighting Game\Fighting Game\bin\Debug\netcoreapp3.0\Fighting Game.pdb
+C:\Users\Brooks\source\repos\Fighting Game\Fighting Game\bin\Debug\netcoreapp3.0\DefenseGame.dll
+C:\Users\Brooks\source\repos\Fighting Game\Fighting Game\bin\Debug\netcoreapp3.0\DefenseGame.pdb
+C:\Users\Brooks\source\repos\Fighting Game\Fighting Game\obj\Debug\netcoreapp3.0\Fighting Game.csprojAssemblyReference.cache
+C:\Users\Brooks\source\repos\Fighting Game\Fighting Game\obj\Debug\netcoreapp3.0\Fighting Game.AssemblyInfoInputs.cache
+C:\Users\Brooks\source\repos\Fighting Game\Fighting Game\obj\Debug\netcoreapp3.0\Fighting Game.AssemblyInfo.cs
+C:\Users\Brooks\source\repos\Fighting Game\Fighting Game\obj\Debug\netcoreapp3.0\Fighting Game.csproj.CopyComplete
+C:\Users\Brooks\source\repos\Fighting Game\Fighting Game\obj\Debug\netcoreapp3.0\Fighting Game.dll
+C:\Users\Brooks\source\repos\Fighting Game\Fighting Game\obj\Debug\netcoreapp3.0\Fighting Game.pdb
+C:\Users\Student\Desktop\Coding Stuffs\Visual Studio\Fighting Game\Fighting Game\bin\Debug\netcoreapp3.0\Fighting Game.exe
+C:\Users\Student\Desktop\Coding Stuffs\Visual Studio\Fighting Game\Fighting Game\bin\Debug\netcoreapp3.0\Fighting Game.deps.json
+C:\Users\Student\Desktop\Coding Stuffs\Visual Studio\Fighting Game\Fighting Game\bin\Debug\netcoreapp3.0\Fighting Game.runtimeconfig.json
+C:\Users\Student\Desktop\Coding Stuffs\Visual Studio\Fighting Game\Fighting Game\bin\Debug\netcoreapp3.0\Fighting Game.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Coding Stuffs\Visual Studio\Fighting Game\Fighting Game\bin\Debug\netcoreapp3.0\Fighting Game.dll
+C:\Users\Student\Desktop\Coding Stuffs\Visual Studio\Fighting Game\Fighting Game\bin\Debug\netcoreapp3.0\Fighting Game.pdb
+C:\Users\Student\Desktop\Coding Stuffs\Visual Studio\Fighting Game\Fighting Game\bin\Debug\netcoreapp3.0\DefenseGame.dll
+C:\Users\Student\Desktop\Coding Stuffs\Visual Studio\Fighting Game\Fighting Game\bin\Debug\netcoreapp3.0\DefenseGame.pdb
+C:\Users\Student\Desktop\Coding Stuffs\Visual Studio\Fighting Game\Fighting Game\obj\Debug\netcoreapp3.0\Fighting Game.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Coding Stuffs\Visual Studio\Fighting Game\Fighting Game\obj\Debug\netcoreapp3.0\Fighting Game.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Coding Stuffs\Visual Studio\Fighting Game\Fighting Game\obj\Debug\netcoreapp3.0\Fighting Game.AssemblyInfo.cs
+C:\Users\Student\Desktop\Coding Stuffs\Visual Studio\Fighting Game\Fighting Game\obj\Debug\netcoreapp3.0\Fighting Game.csproj.CopyComplete
+C:\Users\Student\Desktop\Coding Stuffs\Visual Studio\Fighting Game\Fighting Game\obj\Debug\netcoreapp3.0\Fighting Game.dll
+C:\Users\Student\Desktop\Coding Stuffs\Visual Studio\Fighting Game\Fighting Game\obj\Debug\netcoreapp3.0\Fighting Game.pdb

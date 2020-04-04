@@ -1,0 +1,10 @@
+C:\Users\Brooks\source\repos\DefenseGame\DefenseGame\obj\Debug\netcoreapp2.1\DefenseGame.csprojAssemblyReference.cache
+C:\Users\Brooks\source\repos\DefenseGame\DefenseGame\obj\Debug\netcoreapp2.1\DefenseGame.AssemblyInfoInputs.cache
+C:\Users\Brooks\source\repos\DefenseGame\DefenseGame\obj\Debug\netcoreapp2.1\DefenseGame.AssemblyInfo.cs
+C:\Users\Brooks\source\repos\DefenseGame\DefenseGame\bin\Debug\netcoreapp2.1\DefenseGame.deps.json
+C:\Users\Brooks\source\repos\DefenseGame\DefenseGame\bin\Debug\netcoreapp2.1\DefenseGame.runtimeconfig.json
+C:\Users\Brooks\source\repos\DefenseGame\DefenseGame\bin\Debug\netcoreapp2.1\DefenseGame.runtimeconfig.dev.json
+C:\Users\Brooks\source\repos\DefenseGame\DefenseGame\bin\Debug\netcoreapp2.1\DefenseGame.dll
+C:\Users\Brooks\source\repos\DefenseGame\DefenseGame\bin\Debug\netcoreapp2.1\DefenseGame.pdb
+C:\Users\Brooks\source\repos\DefenseGame\DefenseGame\obj\Debug\netcoreapp2.1\DefenseGame.dll
+C:\Users\Brooks\source\repos\DefenseGame\DefenseGame\obj\Debug\netcoreapp2.1\DefenseGame.pdb
