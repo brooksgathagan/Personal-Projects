@@ -6,7 +6,7 @@ namespace Fighting_Game
 {
     class Game : IFighterGame
     {
-        public virtual int Stage { get; private set; } = 1; // after each level (level will likely be in a while or do-while loop, with the option to repeat level upon a loss part of the level class's functionality), Level++;
+        public virtual int Stage { get; private set; } = 1; 
         public virtual void PlayGame() 
         {
             for (int i = 0; i < 9; i++) // magic number; edit this
