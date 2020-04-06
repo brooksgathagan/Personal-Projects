@@ -4,7 +4,7 @@ _________________________________
 
 # Morse Code Translator
 
-A simple application that utilizes Dictionaries to translate Morse Code -- both from text to morse code, and from morse code to text. 
+A simple application that utilizes Dictionaries to translate Morse Code -- both from plaintext to morse code, and from morse code to plaintext. 
 
 # Jordan Kombat
 
