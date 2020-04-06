@@ -4,7 +4,7 @@ _________________________________
 
 # Morse Code Translator
 
-A simple application to translate Morse Code -- from text to morse code, and from morse code to text. Invalid characters are given either an "!" or "?".
+A simple application to translate Morse Code -- from text to morse code, and from morse code to text. 
 
 # Jordan Kombat
 
