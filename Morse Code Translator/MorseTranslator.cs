@@ -188,12 +188,6 @@ namespace MorseCodeTranslator
 
         public static void WriteKeys()
         {
-            // List<char> z = new List<char>(_textToMorse.Keys);  
-            // foreach (char x in z)
-            // {
-            //     Console.WriteLine(x);
-            // }
-
             foreach (KeyValuePair<char, string> pair in _textToMorse)
             {
                 Console.WriteLine(pair.Key);
