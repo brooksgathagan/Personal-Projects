@@ -8,7 +8,7 @@ A simple application to translate Morse Code -- from text to morse code, and fro
 
 # Jordan Kombat
 
-This was a practice project that I did to practice OOP fundamentals & basic C#.  In addition to the cringe induced by hindsight & further learning, it was also my first exposure to the "Ah, but I could add this feature, too!" rabbit hole that leads to an acceptance of incompletion.
+This was a practice project that I did to practice OOP fundamentals & basic C#.  In addition to the cringe induced by hindsight & further learning, it was also my first exposure to the "Ah, but I could add this feature, too!" rabbit hole that leads to an eventual acceptance of incompletion (for useless personal projects, that is)!
 
 The console app has three base stages (two levels per stage), including a pair of bonus rounds that are accessible upon completing the "final boss" stage. Michael Jordan is the user-controlled hero of the game, who gains abilities at each stage passed.  It's a silly game (Bob Ross and Joe Rogan are the "commentators" of each match) that no one in their right mind would play, but it was fun.  Might try to create a 2D fighter out of it w/ Unity...someday!
 
