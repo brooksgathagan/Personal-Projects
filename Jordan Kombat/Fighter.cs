@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Fighting_Game
 {
-    abstract class Fighter : IFighter // Make this and the "//" properties below abstract.  Delete all of the shit at the bottom -- ONCE YOU GO THRU IT AGAIN TO UNDERSTAND WTF YOU"RE DOING YOU IDIOT!
+    abstract class Fighter : IFighter 
     {
         public abstract string Name { get; } 
         public abstract string Type { get; } 
@@ -33,16 +33,15 @@ namespace Fighting_Game
         }
 
         protected virtual void IncreaseRage() => RageMeter += RageBoost;
-        public virtual void DecreaseHealth(double damage) // Decreasing health is handled by the object itself.  Other objects can call DecreaseHealth on a fighter passed in as an argument to their attack methods, effectively affecting their health.  
+        public virtual void DecreaseHealth(double damage) 
         {
             Health -= damage;
-            DamageTaken = damage; // this is the easiest place to include DamageTaken -- the damage is tied to the attack damage that we use when Decreasing Health, and writing it here meanas we only need to write it once (as opposed to making a new method, or writing it in the method for each attack, etc.)
+            DamageTaken = damage; 
             if (Health < 0) { Health = 0; }
         }
-        public virtual void Attack(IFighter fighter)                             // Need to completely switch order of this so that it flows.  As of now, we're choosing our attack after it says "Successful Strike!", and ReadLine is used for all attacks -- not just ours.  Also need to account for an alternative to "if Fighter is MJ" if we do the "Mirror Image" boss transformation.  
-        {                                                                       // Sort of did this.  We need to override the Attack in MJ to take ReadLine.  
-            if (this.Location.IsInRangeOf(fighter.Location, AttackRange))       // Seems silly to have a "if Fighter is MJ" if we're only using this on MJ -- every time we attack, we'll also receive self-damage messages, etc.  Not good. 
-            {                                                                   // To overcome the "mirror MJ" problem, maybe instead (or in addition to) Level property, have a "Defeated Opponents" property and base functionality on that to discern between the main MJ and mirror MJ. 
+        public virtual void Attack(IFighter fighter)                             
+            if (this.Location.IsInRangeOf(fighter.Location, AttackRange))      
+            {                                                                   
                 if (IsSuccessfulAttack())
                 {
                     
@@ -166,9 +165,9 @@ namespace Fighting_Game
             {
                 if (fighter.Location.Equals(Location))
                 {
-                    Console.WriteLine("Break it up, you two!  Reset at the center. \nFight!");   // Because we're in Fighter, we can pass in any type of Fighter to a method and change its protected members (from a different fighter object -- e.g. MJ can change Drac's DefaultLocation (protected).
-                    Location = DefaultLocation;                                                     // We can't simply do this in one of the sub-classes.  In fact, we can't even change a "Fighter"'s protected parameters.
-                    fighter.Location = fighter.DefaultLocation;                                      // If in Drac (or any other sub-class/class), we CAN change the protected members of another Drac.      
+                    Console.WriteLine("Break it up, you two!  Reset at the center. \nFight!");  
+                    Location = DefaultLocation;                                                     
+                    fighter.Location = fighter.DefaultLocation;                                      
                     return;
                 }
                 else
