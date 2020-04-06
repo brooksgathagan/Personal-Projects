@@ -106,8 +106,6 @@ namespace Fighting_Game
             Commentary.MJSpecial();
         }
 
-// OpponentMJAttack (below) was written to address the issue that arose when I decided to make the final "boss" a composited fighter -- a Sir Sharky that morphs into an MJ.  Because the MJ class (this class) involves user-operated attacks, fighting against an "MJ" would also involve the user choosing his attacks -- not ideal! 
-// This way, the "opponent" MJ can call this method and randomly select an attack, whereas the user's MJ is controlled by the user.
         internal void OpponentMJAttack(IFighter fighter)
         {
             if (!(this.Location.IsInRangeOf(fighter.Location, AttackRange)))
@@ -181,9 +179,6 @@ namespace Fighting_Game
             Console.Clear();
         }
 
-// I separated "Attack" (above) and "DetermineAttack" (below) into two separate methods (where Attack calls DetermineAttack).  It seemed easiest to incorporate the "movement" into the Attack given it's a console game and movement is going to be limited, if not completely automated.  
-// I also combined the "Display Health" with the Attack to give the player an idea of what his/her health is in case it affects their decision for an attack any.
-// To me, it seemed as though it'd be more confusing to include the entirety of what's written in DetermineAttack along with what I just commented on above.  DetermineAttack is doing just that -- seeking user input to determine the attack.  It takes care of the actual "attacking" as well, which is why I call it in the primary (public) Attack method.   
         private void DetermineAttack(IFighter fighter)
         {
             string attackType;
